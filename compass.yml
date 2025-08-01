@@ -1,0 +1,17 @@
+name: go-diskfs
+id: ari:cloud:compass:89436501-45fd-498f-9c7c-b0db10b968cb:component/d819e7ce-7ec1-48ae-b718-cb3459fc6e06/c7b2bd41-df71-47b1-adbc-18db6269ffef
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/spyderorg/go-diskfs
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
